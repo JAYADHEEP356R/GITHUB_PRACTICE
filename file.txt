@@ -5,3 +5,5 @@ will be staging the file first and then ,local repository -> repote repository, 
 
 --adding extra changes
 --adding extra changes
+
+new chages made in branch2  
