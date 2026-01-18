@@ -7,4 +7,4 @@ will be staging the file first and then ,local repository -> repote repository, 
 --adding extra changes
 
 new chages made in branch2  
-this is the changes from the master branch 
+new changes made in feature-branch
